@@ -1,0 +1,10 @@
+**/.structurizr/
+**/workspace.json
+
+**/*.log
+**/.idea/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+
+**/environment.env

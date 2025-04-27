@@ -1,4 +1,3 @@
-# Первый этап: используем официальный образ Python для установки зависимостей
 FROM python:3.9-slim AS builder
 
 WORKDIR /app
